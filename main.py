@@ -30,7 +30,7 @@ import os
 
 bot = discord.Client()  # bot client
 
-my_page_followers = "https://github.com/HazemMeqdad?tab=followers"  # page Ahlin Chan
+my_page_followers = "https://github.com/HazemMeqdad?tab=followers"  # my followers page
 required_account = "al-bimani"  # name Ahlin Chan
 
 webhook = os.environ['webhook']
